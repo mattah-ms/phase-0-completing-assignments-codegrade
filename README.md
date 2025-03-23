@@ -128,7 +128,6 @@ These instructions are now also available on your local machine in `README.md`.
 
 > Note: the first time you open a directory in Visual Studio Code, you'll see a
 > message asking "Do you trust the authors of the files in this folders?" This
-> is a [security feature][workspace-trust] of Visual Studio Code. It's safe to
 > choose "Yes", and we recommend selecting the "Trust the authors of all the
 > files in the parent folder" option to prevent this warning from coming up
 > every time you open a lesson. Just be sure to download your code from trusted
