@@ -1,0 +1,23 @@
+body{
+    color:#00b3e6;
+
+}
+
+div{
+    width: 700px;
+    margin: auto;
+    font-family: Heletica Neue;
+    background: white;
+    padding: 30px;
+
+}
+
+#main header{
+    font-size: 22px;
+
+}
+
+perspective-question{
+    font-style: italic;
+    
+}
